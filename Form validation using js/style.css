@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: red;
+}
+
+#pg {
+    color: green;
+}
+
+.para {
+    color: white;
+    font-size: 30px;
+}
